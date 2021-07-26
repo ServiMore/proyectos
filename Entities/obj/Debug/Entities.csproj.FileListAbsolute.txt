@@ -1,0 +1,12 @@
+C:\Users\ingsv\source\repos\Nomina\Entities\bin\Debug\Entities.dll
+C:\Users\ingsv\source\repos\Nomina\Entities\bin\Debug\Entities.pdb
+C:\Users\ingsv\source\repos\Nomina\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\Users\ingsv\source\repos\Nomina\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\ingsv\source\repos\Nomina\Entities\obj\Debug\Entities.dll
+C:\Users\ingsv\source\repos\Nomina\Entities\obj\Debug\Entities.pdb
+D:\programacion\Nomina\Entities\bin\Debug\Entities.dll
+D:\programacion\Nomina\Entities\bin\Debug\Entities.pdb
+D:\programacion\Nomina\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+D:\programacion\Nomina\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+D:\programacion\Nomina\Entities\obj\Debug\Entities.dll
+D:\programacion\Nomina\Entities\obj\Debug\Entities.pdb

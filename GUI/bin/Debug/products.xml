@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<ArrayOfProduct xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Product>
+    <Codigo>11</Codigo>
+    <Nombre>pan</Nombre>
+    <Precio>20</Precio>
+  </Product>
+  <Product>
+    <Codigo>123</Codigo>
+    <Nombre>Jabon</Nombre>
+    <Precio>15</Precio>
+  </Product>
+</ArrayOfProduct>
